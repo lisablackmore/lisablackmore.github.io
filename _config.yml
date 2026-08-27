@@ -38,11 +38,12 @@ defaults:
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: 
+url: https://lisablackmore.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: https://walshbr.com/
-# location of code, the full url to your github repository
-source-code: https://github.com/walshbr/intro-to-dh-f26
+baseurl: https://lisablackmore.github.io
+# lisablackmore.github.io
+source-code: https://github.com/lisablackmore/lisablackmore.github.io
+
 
 ##########
 # SITE SETTINGS
